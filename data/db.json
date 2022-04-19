@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 5,
+      "title": "Test",
+      "datetime": "April 18, 2022 5:08:23 PM",
+      "body": "copyright 2022"
+    },
+    {
+      "id": 9,
+      "title": "last post",
+      "datetime": "April 19, 2022 3:06:48 PM",
+      "body": "may be later..."
+    },
+    {
+      "id": 10,
+      "title": "Today's First Post",
+      "datetime": "April 19, 2022 3:15:16 PM",
+      "body": "Good Morning to all....\ntoday is your day so make it beautiful...\nand have a nice day "
+    }
+  ]
+}
